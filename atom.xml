@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhushaohz.github.io/"/>
-  <updated>2020-04-08T07:06:12.323Z</updated>
+  <updated>2020-04-08T09:33:36.304Z</updated>
   <id>https://zhushaohz.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://zhushaohz.github.io/2020/04/08/hello-world/"/>
-    <id>https://zhushaohz.github.io/2020/04/08/hello-world/</id>
+    <title>我的第一篇博客</title>
+    <link href="https://zhushaohz.github.io/2020/04/08/first/"/>
+    <id>https://zhushaohz.github.io/2020/04/08/first/</id>
     <published>2020-04-08T07:06:12.323Z</published>
-    <updated>2020-04-08T07:06:12.323Z</updated>
+    <updated>2020-04-08T09:33:36.304Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,10 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;在中期报告前花了一天时间搞这个东西，蛮刺激的&lt;/p&gt;
+&lt;p&gt;我想弄那个访问量&lt;/p&gt;
+&lt;p&gt;过几天有时间的话&lt;/p&gt;
+
         
       
     
